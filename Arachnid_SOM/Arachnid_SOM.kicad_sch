@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "64930bcb-a664-4bc9-b0ec-19f974060436")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 40.64 30.48)
+		(size 39.37 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "686c2ecd-6e2f-4c7d-b085-141e8a17ee2a")
+		(property "Sheetname" "RK3328 SOM - DDR3 A"
+			(at 40.64 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RK3328.kicad_sch"
+			(at 40.64 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Arachnid_SOM"
+				(path "/64930bcb-a664-4bc9-b0ec-19f974060436"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

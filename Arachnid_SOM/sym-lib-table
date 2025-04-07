@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RK3328_O")(type "KiCad")(uri "/home/h4ll/Dev/ArachnidV2 (Copy)/Main_Board/libs/RK3328.kicad_sym")(options "")(descr ""))
+  (lib (name "R_Array")(type "KiCad")(uri "${KIPRJMOD}/Libs/R_Array.kicad_sym")(options "")(descr ""))
+  (lib (name "SOM_Libs")(type "KiCad")(uri "${KIPRJMOD}/Libs/SOM_Libs.kicad_sym")(options "")(descr ""))
+  (lib (name "RK3328")(type "KiCad")(uri "${KIPRJMOD}/Libs/RK3328.kicad_sym")(options "")(descr ""))
+  (lib (name "RK809-1")(type "KiCad")(uri "${KIPRJMOD}/Libs/RK809-1.kicad_sym")(options "")(descr ""))
+)
